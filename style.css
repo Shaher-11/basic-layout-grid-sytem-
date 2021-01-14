@@ -1,6 +1,5 @@
 body {
     margin: 0 auto;
-    background-color: #f5f5f6;
 }
 
 .zone {
@@ -140,3 +139,4 @@ footer {
     background: -ms-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* IE10+ */
     background: linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* W3C */
 }
+
